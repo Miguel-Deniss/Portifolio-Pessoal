@@ -8,6 +8,19 @@ body {
   background-color: #111827;
 }
 
+.python-icon {
+  color: #60a5fa;
+}
+
+.html-icon {
+  color: #e34c26;
+}
+
+.css-icon {
+  color: #264de4;
+}
+
+
 .inicio {
   min-height: 100vh;
   display: flex;
@@ -200,4 +213,8 @@ a {
 
 .github-icon:hover {
   color: #adaeb0;
+}
+
+.linkedin-icon {
+  font-size: 35px;
 }
