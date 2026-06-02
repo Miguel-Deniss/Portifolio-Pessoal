@@ -29,6 +29,9 @@ body {
 
 .nome {
   color: #60a5fa;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .botoes a {
@@ -217,4 +220,26 @@ a {
 
 .linkedin-icon {
   font-size: 35px;
+}
+
+.rodape {
+  background-color: #111827;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.rodape p {
+  margin-bottom: 10px;
+}
+
+.rodape i {
+  font-size: 35px;
+  color: white;
+  transition: 0.2s;
+}
+
+.rodape i:hover {
+  color: #60a5fa;
+  transform: scale(1.1);
 }
